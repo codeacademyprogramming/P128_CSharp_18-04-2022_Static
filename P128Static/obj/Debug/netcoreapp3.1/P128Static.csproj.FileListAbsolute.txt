@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\P128Static\bin\Debug\netcoreapp3.1\P128Static.exe
+C:\Users\memme\Desktop\P128\Task\P128Static\bin\Debug\netcoreapp3.1\P128Static.deps.json
+C:\Users\memme\Desktop\P128\Task\P128Static\bin\Debug\netcoreapp3.1\P128Static.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128Static\bin\Debug\netcoreapp3.1\P128Static.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128Static\bin\Debug\netcoreapp3.1\P128Static.dll
+C:\Users\memme\Desktop\P128\Task\P128Static\bin\Debug\netcoreapp3.1\P128Static.pdb
+C:\Users\memme\Desktop\P128\Task\P128Static\obj\Debug\netcoreapp3.1\P128Static.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128Static\obj\Debug\netcoreapp3.1\P128Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128Static\obj\Debug\netcoreapp3.1\P128Static.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128Static\obj\Debug\netcoreapp3.1\P128Static.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128Static\obj\Debug\netcoreapp3.1\P128Static.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128Static\obj\Debug\netcoreapp3.1\P128Static.dll
+C:\Users\memme\Desktop\P128\Task\P128Static\obj\Debug\netcoreapp3.1\P128Static.pdb
+C:\Users\memme\Desktop\P128\Task\P128Static\obj\Debug\netcoreapp3.1\P128Static.genruntimeconfig.cache
